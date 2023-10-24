@@ -51,8 +51,8 @@
             bindings = <
  &kp F1           &kp F2         &kp F3            &kp F4             &kp F5       &kp F6            &tog 1   &mo 3  &kp F7  &kp F8  &kp F9  &kp F10       &kp F11  &kp F12
  &trans  &kp EXCLAMATION    &kp AT_SIGN         &kp TILDE           &kp STAR  &kp PERCENT             &none   &none  &trans  &trans  &trans   &trans  &kp ASTERISK   &trans
- &trans    &kp AMPERSAND  &kp AMPERSAND    &kp LEFT_BRACE    &kp RIGHT_BRACE   &kp DOLLAR             &none  &trans  &trans                   &trans        &trans    &none        &kp LEFT   &kp DOWN     &kp UP    &kp RIGHT  &trans  &trans
- &trans        &kp POUND       &kp HASH  &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &kp TILDE             &none   &none  &trans   &none   &none   &trans         &none    &none  &kp UNDERSCORE  &kp COLON  &kp EQUAL  &kp PERCENT  &trans  &trans
+ &trans            &none  &kp AMPERSAND    &kp LEFT_BRACE    &kp RIGHT_BRACE   &kp DOLLAR             &none  &trans  &trans                   &trans        &trans    &none        &kp LEFT   &kp DOWN     &kp UP    &kp RIGHT  &trans  &trans
+ &trans            &none       &kp HASH  &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &kp GRAVE             &none   &none  &trans   &none   &none   &trans         &none    &none  &kp UNDERSCORE  &kp COLON  &kp EQUAL  &kp PERCENT  &trans  &trans
  &trans           &trans         &trans            &trans             &trans       &trans            &trans  &trans  &trans  &trans  &trans   &trans        &trans   &trans          &trans     &trans
             >;
         };
